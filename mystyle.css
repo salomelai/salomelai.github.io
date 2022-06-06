@@ -1,0 +1,44 @@
+
+h1{
+    text-align: center;
+    color:rgba(0, 0, 0, 0.68);
+    font-family: 'Nunito', sans-serif;
+}
+h3{
+    text-align:center;
+}
+.wrap img{
+    margin-left:20%;
+    height:auto;
+    width:200px;
+}
+.wrap .text{
+    padding:50px;
+}
+.wrap{
+    display:flex;
+}
+.cir1{
+    background-color:#cfb2f3;
+    width:20px;
+    height:20px;
+    border-radius:999em;
+}
+.cir2{
+    border-color:#cfb2f3;
+    border-style:solid;
+    width:20px;
+    height:20px;
+    border-radius:999em;
+}
+.item{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.item li{
+    line-height: 30px;
+}
+p{
+    width:65%;
+}
